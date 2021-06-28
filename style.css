@@ -1,0 +1,16 @@
+input{
+
+    font-size: large;
+    border: 4px double 
+}
+
+body{
+    background-color: lightseagreen;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+div{
+    color: crimson;
+    font-size: medium;
+}
